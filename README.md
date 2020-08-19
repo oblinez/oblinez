@@ -1,7 +1,7 @@
 ### Hi there 👋
 <b>My name is Allan, i'm from brazil and love alot programming</br>
 i always liked to play with programming to make game servers, but nothing complex, a script here and there...</br>
-now i'm dedicating myself to frontend, html scss, typescript and angular, i'm still in the bearning phase but i already know the basics</b>
+now i'm dedicating myself to frontend, html scss, typescript and angular, i'm still in the learning phase but i already know the basics</b>
 <!--
 **oblinez/oblinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,5 +1,5 @@
 ### Hi there 👋
-my name is allan, i'm from brazil and love alot programming
+My name is Allan, i'm from brazil and love alot programming
 i always liked to play with programming to make game servers, but nothing complex, a script here and there...
 now i'm dedicating myself to frontend, html scss, typescript and angular, i'm still in the bearning phase but i already know the basics
 <!--

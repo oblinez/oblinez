@@ -54,7 +54,7 @@ I love building indie game servers and am a cryptocurrency enthusiast.
 ## My work experience ( As a Programmer )
 | Company | Period of work |
 |:---------:|:----------------------------------:|
-| Cia Da Consulta | Period of work ( 03/2021 - 04/22 )<br> Role - FullStack Angular Develop |
+| Cia Da Consulta | Period of work ( 03/2021 - 04/2022 )<br> Role - FullStack Angular Develop |
 ## Contact
 <p>
 <a target="_blank" href="https://github.com/oblinez"><img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="50" title="Github" /></a> 

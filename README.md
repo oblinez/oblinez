@@ -60,5 +60,5 @@ I love building indie game servers and am a cryptocurrency enthusiast.
 <a target="_blank" href="https://github.com/oblinez"><img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="50" title="Github" /></a> 
 <a target="_blank" href="https://t.me/Oblinez"><img src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" width="50" title="Telegram" /></a>
 <a target="_blank" href="https://www.linkedin.com/in/apgrimespereira/"><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="50" title="LinkedIn" /></a>
-<a href="mailto://oblinez1@gmail.com"><img src="https://edent.github.io/SuperTinyIcons/images/svg/email.svg" width="50" title="Email" /></a> 
+<a href="mailto:oblinez1@gmail.com"><img src="https://edent.github.io/SuperTinyIcons/images/svg/email.svg" width="50" title="Email" /></a> 
 </p>
